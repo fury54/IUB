@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="primary_color">#BB86FC</color>
+        <color name="secondary_color">#03DAC5</color>
+        <color name="background_color">#121212</color>
+        <color name="cell_color">#1F1B24</color>
+        <color name="black">#000000</color>
+        <color name="white">#FFFFFF</color>
+
+
+</resources>
